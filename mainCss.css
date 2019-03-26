@@ -9,3 +9,8 @@ h2 {
 h3 {
     background-color: brown;
 }
+
+#okBtn #cancelBtn {
+    color: aqua;
+    background-color: antiquewhite;
+}
