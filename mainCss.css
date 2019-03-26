@@ -10,7 +10,7 @@ h3 {
     background-color: brown;
 }
 
-#okBtn #cancelBtn {
+#okBtn, #cancelBtn {
     color: aqua;
     background-color: antiquewhite;
 }
