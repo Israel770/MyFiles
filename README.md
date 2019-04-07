@@ -1,2 +1,2 @@
 # MyFiles
-this is the redme file.
+this is the readme file.
